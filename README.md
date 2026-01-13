@@ -1,1 +1,1 @@
-# Pardus-zerinde-Resim-Dizayn-Uygulamas-
+
