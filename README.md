@@ -123,6 +123,10 @@ Bu betikler tarafından "source" edilerek kullanılır. (```source function.sh``
 Bu dosya doğrudan çalıştırılmamalıdır. ```./function.sh ``` şeklinde çalıştırılması önerilmez.
 
 
+----------
+
+### <a href="https://youtu.be/_f72tYFqHFk"> Sesli Anlatım Videosu İçin Tıklayın </a>
+
 
 
 
