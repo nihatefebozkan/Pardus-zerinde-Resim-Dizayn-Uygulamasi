@@ -92,7 +92,7 @@ Terminal üzerinde Imagemagick kullanarak çalışır.YAD (Yet Another Dialog) k
 
 #### Seçeneklere işlem yapacağınız resmi/dosyayı klasörlerinizden seçerek ilerleyebilirsiniz bu size kolaylık sağlar.
 <p align="center">
-  <img src="main/Screenshots/Ekran9.png" width="35%">
+  <img src="main/Screenshots/Ekran9.png" width="45%">
   <img src="main/Screenshots/Ekran10.png" width="45%">
 </p>
 
